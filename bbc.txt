@@ -3,3 +3,5 @@ radio
 uk
 music
 news
+people
+region
