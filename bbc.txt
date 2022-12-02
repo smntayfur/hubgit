@@ -5,3 +5,5 @@ music 1
 news
 people
 region
+asia
+europe
